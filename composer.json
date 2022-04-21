@@ -1,0 +1,23 @@
+{
+    "name": "xmansher/basic-toolsets",
+    "description": "Collect Fancy Basic Tool Functions For PHP.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xmansher\\BasicToolsets\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xmansher",
+            "email": "vvvipdarlin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
